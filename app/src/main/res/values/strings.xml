@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CiudadesEspañaMaps&amp;Wiki</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_mostrar">MUESTRA LA CIUDAD</string>
+</resources>
